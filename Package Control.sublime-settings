@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Base16 Color Schemes",
+		"Color Scheme - RSE",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"INI",
+		"Laravel Color Scheme",
+		"LoremIpsum",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Sass",
+		"SFTP",
+		"TextMate-Themes",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"WebExPert - ColorScheme"
+	],
+	"repositories":
+	[
+		"https://github.com/geoffgarside/TextMate-Themes",
+		"https://github.com/skuroda/Sublime-AdvancedNewFile"
+	]
+}

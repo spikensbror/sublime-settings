@@ -1,0 +1,12 @@
+{
+	"files":
+	{
+		"css_clearfix": "https://raw.github.com/gist/2623322/451436eff2a541b688d0623664f4ecd4a1a524a0/clearfix.css",
+		"css_reset": "http://meyerweb.com/eric/tools/css/reset/reset.css",
+		"jquery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}
