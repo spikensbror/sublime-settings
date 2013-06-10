@@ -4,12 +4,10 @@
 	[
 		"AdvancedNewFile",
 		"Base16 Color Schemes",
-		"Color Scheme - RSE",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
 		"INI",
-		"Laravel Color Scheme",
 		"LoremIpsum",
 		"Nettuts+ Fetch",
 		"Package Control",
@@ -17,8 +15,7 @@
 		"SFTP",
 		"TextMate-Themes",
 		"Theme - Soda",
-		"Tomorrow Color Schemes",
-		"WebExPert - ColorScheme"
+		"Tomorrow Color Schemes"
 	],
 	"repositories":
 	[
